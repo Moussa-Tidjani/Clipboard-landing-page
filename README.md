@@ -3,6 +3,7 @@
 ![Design preview for the Clipboard landing page coding challenge](preview.jpg)
 
 ## Welcome! 👋
+### https://moussa-tidjani.github.io/Clipboard-landing-page/
 
 Thanks for checking out this front-end coding challenge.
 
